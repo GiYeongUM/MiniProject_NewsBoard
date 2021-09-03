@@ -1,4 +1,4 @@
-#Fri Sep 03 10:47:39 KST 2021
-base.0=/Users/ugy/IdeaProjects/personalproj/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Fri Sep 03 11:01:50 KST 2021
+base.0=/Users/ugy/Documents/GitHub/MiniProject_NewsBoard/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
