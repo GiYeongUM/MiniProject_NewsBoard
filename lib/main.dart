@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
         navigatorKey: navigatorKey,
-        title: 'Bookshelf',
+        title: 'NewsBoard',
         debugShowCheckedModeBanner: false,
         initialRoute: '/',
         getPages: [
